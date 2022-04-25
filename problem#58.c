@@ -1,3 +1,13 @@
+/*Description
+
+Given some integers, please list them in increasing order.
+
+Input
+First line is an integer T (T \leq 20)T(T≤20) followed by TT test cases.
+Each test case consists of two lines. First line is an integer n(n≤10^4), and second line contains n integers
+V 1​,V 2​,...,V n​. (-2^{31}< V_i < 2^{31}-1\ for\ 1 \leq i \leq n )(−2 31<V i​<2 31 −1 for 1≤i≤n)
+*/
+
 #include<stdio.h>
 
 
