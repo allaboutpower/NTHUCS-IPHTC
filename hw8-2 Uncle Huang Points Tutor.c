@@ -1,4 +1,4 @@
-  #include<stdio.h>
+#include<stdio.h>
 
 long long fpw(long long x, long long y, int m);
 
